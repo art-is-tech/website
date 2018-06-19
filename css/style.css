@@ -2036,7 +2036,7 @@ footer p {
 /* Large Devices, Wide Screens */
 /* Notebook devices */
 /* Medium Devices, Desktops */
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 2048px) {
   .global-overlay.hide-overlay {
     opacity: 1 !important;
   }
@@ -2288,3 +2288,4 @@ footer p {
     font-size: 12px;
   }
 }
+
