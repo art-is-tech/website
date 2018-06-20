@@ -7,7 +7,7 @@
 
         $('.lang').each(function(index, element){
             var text = multilang.get($(this).attr('key'));
-            $(this).text(text);
+            $(this).html(text);
         });
     });
 })('lang/languages.json');

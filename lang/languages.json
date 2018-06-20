@@ -5,7 +5,8 @@
         "more-info": "More Information",
         "notify": "Notify Me!",
         "english": "English",
-        "spanish": "Spanish"
+        "spanish": "Spanish",
+        "text-about": "Hi"
     },
     "es":{
         "we": "Somos Artistech",
@@ -13,6 +14,7 @@
         "more-info": "Mas Información",
         "notify": "¡Notificame!",
         "english": "Inglés",
-        "spanish": "Español"
+        "spanish": "Español",
+        "text-about": "ArtIsTech concentra [profesionales] de la informática, innovación, ciencia, creatividad y emprendimiento del mundo entero en el mismo lugar durante 6 meses.<br><br>En un bootcamp donde no se exige un título académico previo, sino ganas de superarse y realizar el lanzmiento de nuevas empresas de carácter especializado en tecnologías punteras, aquellas que mas solicita el mercado actual.<br><br>Todo esto basado en la ayuda cooperativa y fomacion de sus miembros bajo un extricto y muy intensivo enfoque en la práctica donde la meta principal es la creación de startups bajo un modelo internacional, online y mobile."
     }
 }

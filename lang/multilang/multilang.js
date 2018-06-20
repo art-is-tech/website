@@ -7,7 +7,7 @@ var MultiLang = function(url, lang, onload)
 	this.phrases = {};
 
 	// keep only first two chareacters, for example 'en-US', 'fr', 'nl-NL', 'it', 'zh' etc.
-	this.selectedLanguage = (lang || navigator.language || navigator.userLanguage).substring(0, 2);;
+	this.selectedLanguage = (lang || navigator.language || navigator.userLanguage).substring(0, 2);
 	
 	// onLoad callback function, call after loading JSON
 	this.onLoad = onload;
